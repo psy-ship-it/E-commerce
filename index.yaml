@@ -3,6 +3,16 @@ entries:
   ecommerce-chart:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2026-03-02T08:47:18.492218228Z"
+    description: A Helm chart for Kubernetes
+    digest: 8734ab7403d9db7a6a5cc7ff9d4ce413d26097f20e822feb969139319b1716ee
+    name: ecommerce-chart
+    type: application
+    urls:
+    - https://github.com/svspSahil/E-commerce/releases/download/ecommerce-chart-0.1.3/ecommerce-chart-0.1.3.tgz
+    version: 0.1.3
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2026-03-02T06:45:00.689511814Z"
     description: A Helm chart for Kubernetes
     digest: 06b9287053af48280888edb3e486ca6ebc6366e32c8f896d17a7177225a6e55c
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://github.com/psy-ship-it/E-commerce/releases/download/ecommerce-chart-0.1.1/ecommerce-chart-0.1.1.tgz
     version: 0.1.1
-generated: "2026-03-02T06:45:00.689522945Z"
+generated: "2026-03-02T08:47:18.492230056Z"
